@@ -1,7 +1,7 @@
-Movie Booking Application
+## Movie Booking Application
 This is a Movie Booking Application built using MERN Stack Technology.
 
-#### Table of Contents
+## Table of Contents
 ## Introduction
 ## Features
 ## Technologies Used
